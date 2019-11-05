@@ -366,6 +366,13 @@
     bindings "^1.4.0"
     nan "^2.12.1"
 
+"@pokusew/pcsclite@https://github.com/TripathVN/node-pcsclite":
+  version "0.5.2"
+  resolved "https://github.com/TripathVN/node-pcsclite#2ae7720222a1cf7e9140944380b4879762a7a05a"
+  dependencies:
+    bindings "^1.4.0"
+    nan "^2.12.1"
+
 "@sindresorhus/is@^0.14.0":
   version "0.14.0"
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-0.14.0.tgz#9fb3a3cf3132328151f353de4632e01e52102bea"
