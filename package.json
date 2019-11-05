@@ -48,7 +48,7 @@
     "example-without-auto": "node -r @babel/register examples/without-auto.js",
     "prepack": "yarn build && yarn test",
     "test": "cross-env NODE_ENV=test ava test/tests.js --verbose",
-    "postinstall": "build"
+    "postinstall": "yarn build"
   },
   "dependencies": {
     "@pokusew/pcsclite": "https://github.com/TripathVN/node-pcsclite"
